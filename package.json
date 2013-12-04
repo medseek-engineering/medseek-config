@@ -1,0 +1,17 @@
+{
+  "name": "medseek-config",
+  "version": "0.0.1",
+  "description": "MEDSEEK common config module",
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "MEDSEEK, Inc.",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "nconf": "~0.6.8"
+  }
+}
