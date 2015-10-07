@@ -4,6 +4,9 @@ A common configuration module for use within the MEDSEEK API and UI node project
 # about
 medseek-config is a lightweight wrapper on top of the [https://github.com/flatiron/nconf](nconf) module, which abstracts access to various configuration stores. Configuration data may come from files, machine environment variables, or the node command line. 
 
+#Installation
+npm install --save git+ssh://git@github.com:medseek-engineering/medseek-config.git
+
 # usage
 * require the module
 
