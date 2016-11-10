@@ -1,16 +1,30 @@
 {
-  "name": "medseek-config",
-  "version": "0.0.1",
-  "description": "MEDSEEK common config module",
+  "name": "ih-config",
+  "version": "0.0.2",
+  "description": "Influence Health common config module",
   "main": "./lib/index.js",
-  "private": true,
+  "private": false,
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": ""
   },
-  "author": "MEDSEEK, Inc.",
+  "author": "Influence Health, Inc.",
+  "contributors": [
+    { 
+      "name" : "Nathan Cooke",
+      "url" : "http://github.com/3choboomer"
+    },
+    { 
+      "name" : "Kris Burtoft",
+      "url" : "https://github.com/krisburtoft"
+    },
+    { 
+      "name" : "Jeff Posey",
+      "url" : "http://github.com/poseyj"
+    }
+  ]
   "license": "BSD-2-Clause",
   "dependencies": {
     "nconf": "~0.6.8",
