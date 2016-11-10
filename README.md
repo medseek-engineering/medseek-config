@@ -1,8 +1,8 @@
-# medseek-config
+# ih-config
 A common configuration module to abstract precedence of config options.
 
 # about
-medseek-config is a lightweight wrapper on top of the [https://github.com/flatiron/nconf](nconf) module, which abstracts access to various configuration stores. Configuration data may come from files, machine environment variables, or the node command line. 
+ih-config is a lightweight wrapper on top of the [https://github.com/flatiron/nconf](nconf) module, which abstracts access to various configuration stores. Configuration data may come from files, machine environment variables, or the node command line. 
 
 # usage
 * require the module
