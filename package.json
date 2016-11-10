@@ -27,7 +27,6 @@
   ],
   "license": "BSD-2-Clause",
   "dependencies": {
-    "nconf": "~0.6.8",
-    "optimist": "~0.6.1"
+    "nconf": "~0.8.4"
   }
 }
