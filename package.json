@@ -24,7 +24,7 @@
       "name" : "Jeff Posey",
       "url" : "http://github.com/poseyj"
     }
-  ]
+  ],
   "license": "BSD-2-Clause",
   "dependencies": {
     "nconf": "~0.6.8",
