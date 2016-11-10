@@ -4,6 +4,10 @@
   "description": "Influence Health common config module",
   "main": "./lib/index.js",
   "private": false,
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/medseek-engineering/medseek-config.git"
+  },
   "directories": {
     "test": "test"
   },
@@ -12,15 +16,15 @@
   },
   "author": "Influence Health, Inc.",
   "contributors": [
-    { 
+    {
       "name" : "Nathan Cooke",
       "url" : "http://github.com/3choboomer"
     },
-    { 
+    {
       "name" : "Kris Burtoft",
       "url" : "https://github.com/krisburtoft"
     },
-    { 
+    {
       "name" : "Jeff Posey",
       "url" : "http://github.com/poseyj"
     }
