@@ -1,3 +1,5 @@
+# NOTE: master branch is preserved for legacy use. All new development, and any code published to npm, should be done under the `public` branch.
+
 # medseek-config
 A common configuration module for use within the MEDSEEK API and UI node projects.
 
