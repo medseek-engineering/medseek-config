@@ -1,6 +1,6 @@
 {
   "name": "ih-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Influence Health common config module",
   "main": "./lib/index.js",
   "private": false,
